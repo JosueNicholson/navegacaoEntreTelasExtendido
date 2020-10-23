@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598069395919",
+    "firebase_url": "https://estantedelivros-971c9.firebaseio.com",
+    "project_id": "estantedelivros-971c9",
+    "storage_bucket": "estantedelivros-971c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598069395919:android:633ae5d9df942a1f3bd2ba",
+        "android_client_info": {
+          "package_name": "com.example.navegacaoentretelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598069395919-1qv6t92j5kke5qu1kf54vati5kkvbe7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg--pnhKB4X2-5BwdasxnFbpnSmbai0O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598069395919-1qv6t92j5kke5qu1kf54vati5kkvbe7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavegacaoEntreTelas</string>
+    <string name="add_book_btn">Adicionar livro</string>
+    <string name="update_book_btn">Atualizar</string>
+    <string name="save_book_btn">Salvar livro</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="update_msg">Para atualizar, toque em um item da lista</string>
+    <string name="delete_btn">Deletar</string>
+</resources>
